@@ -1,9 +1,9 @@
 {
-  "name": "ng2-admin",
+  "name": "thingcare-webapp",
   "version": "0.0.1",
-  "description": "Angular 2 and Bootstrap 4 Admin Template.",
-  "author": "akveo",
-  "homepage": "http://akveo.github.io/ng2-admin/",
+  "description": "ThingCare Web Application",
+  "author": "ThingCare contributors",
+  "homepage": "http://thingcare.github.io/",
   "license": "MIT",
   "moduleType": [
     "es6"

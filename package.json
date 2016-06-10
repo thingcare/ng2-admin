@@ -1,10 +1,11 @@
 {
-  "name": "ng2-admin",
+  "name": "thingcare-webapp",
   "version": "0.0.1",
-  "description": "Angular 2 and Bootstrap 4 Admin Template.",
-  "author": "akveo",
-  "homepage": "http://akveo.github.io/ng2-admin/",
+  "description": "ThingCare Web Application",
+  "author": "ThingCare contributors",
+  "homepage": "http://thingcare.github.io/",
   "license": "MIT",
+  "private": true,
   "dependencies": {
     "@angular/common": "2.0.0-rc.1",
     "@angular/compiler": "2.0.0-rc.1",
@@ -122,10 +123,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/akveo/ng2-admin.git"
+    "url": "https://github.com/thingcare/thingcare-webapp.git"
   },
   "bugs": {
-    "url": "https://github.com/akveo/ng2-admin/issues"
+    "url": "https://github.com/thingcare/thingcare-webapp/issues"
   },
   "engines": {
     "node": ">= 4.2.1",
